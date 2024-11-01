@@ -35,6 +35,7 @@
 <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 <img alt="Zsh" src="https://img.shields.io/badge/-Zsh-c5d927?&logo=Zsh&style=for-the-badge" />
 <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+<img alt="Gsheet" src="https://img.shields.io/badge/gsheet-34A853?style=for-the-badge&logo=Google%20sheets&logoColor=white">
 </div>
 
 # Stack Overflow and GitHub stats
